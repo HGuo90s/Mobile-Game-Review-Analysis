@@ -4,7 +4,8 @@ This analysis focuses on the reviews of competitive games. It went throught revi
 
 1. Analysis of Statistics <br>
    Basic distribution of reviews
-2. POS tagging & language generation
+2. POS tagging & language generation <br>
    Find occurrences of word categories
-3. Topic analysis using LSA and LDA
-4. Learninng topics classifications. 
+3. Topic analysis using LSA and LDA <br>
+   Selecting the number of topics
+4. Learninng topics classifications. <br>
