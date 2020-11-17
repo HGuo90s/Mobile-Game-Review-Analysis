@@ -2,7 +2,7 @@
 
 This analysis focuses on the reviews of competitive games. It went throught reviews of different competitive games and offers insights from these games. It covers the following topics: 
 
-1. Analysis of Statistics
+1. Analysis of Statistics <br>
    Basic distribution of reviews
 2. POS tagging & language generation
    Find occurrences of word categories
