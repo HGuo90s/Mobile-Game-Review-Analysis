@@ -9,4 +9,4 @@ This analysis focuses on the reviews of competitive games. It went throught revi
 3. Topic analysis using LSA and LDA <br>
    Selecting the number of topics
 4. Learninng topics classifications. <br>
-   Using multi-class classification to learn topic classification
+   Using multi-class classification to learn topic classification (preferably with BERT)
